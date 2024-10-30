@@ -1,0 +1,264 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Imaxel\n"
+"POT-Creation-Date: 2015-12-16 17:31+0100\n"
+"PO-Revision-Date: 2015-12-16 17:38+0100\n"
+"Last-Translator: Francisco <crishnakh@gmail.com>\n"
+"Language-Team: IguannaWeb <iguannaweb@gmail.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: Imaxel\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: woocommerce/single-product/product-attributes.php\n"
+"X-Poedit-SearchPath-2: woocommerce/single-product/add-to-cart/variable.php\n"
+"X-Poedit-SearchPath-3: woocommerce/single-product/price.php\n"
+"X-Poedit-SearchPath-4: includes/enqueue_files.php\n"
+"X-Poedit-SearchPath-5: includes/functions_helper.php\n"
+"X-Poedit-SearchPath-6: includes/imaxel_helpers.php\n"
+"X-Poedit-SearchPath-7: imaxel_api.php\n"
+"X-Poedit-SearchPath-8: imaxel_order.php\n"
+"X-Poedit-SearchPath-9: imaxel.php\n"
+
+msgid " after Woo order status changes to <strong>“Processing”</strong> "
+msgstr "en el estado de pedido <strong>“Procesando”</strong>"
+
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Seleccionar &mdash;"
+
+msgid ""
+"1. Wordpress compatible version<br/> 2. WooCoomerce plugin compatible "
+"version.<br/>3. Active account in Imaxel pW2P external platform. Contact "
+"imaxel.com for further details."
+msgstr ""
+"1. Versión de Wordpress compatible<br/>2. Versión compatible del plugin de "
+"Woocommerce. <br/>3. Una cuenta activa en la plataforma externa Imaxel pW2P. "
+"Contacta con imaxel.com para más detalles."
+
+msgid "<span style=\"color: orange;\">pW2P</span> product"
+msgstr "Producto <span style=\"color: orange;\">pW2P</span>"
+
+msgid "<span style=\"color: orange;\">pW2P</span> project"
+msgstr "Producto <span style=\"color: orange;\">pW2P</span>"
+
+msgid "<span style=\"color: orange;\">pW2P</span> status"
+msgstr "Estado en <span style=\"color: orange;\">pW2P</span>"
+
+msgid "About <span style=\"color: orange;\">Imaxel pW2P</span>"
+msgstr "En <span style=\"color: orange;\">Imaxel</span>"
+
+msgid "Action"
+msgstr "Acción"
+
+msgid "Activate <strong>automatic production</strong>"
+msgstr "Activar <strong>producción automática</strong>"
+
+msgid "Are you really sure you want to delete this project"
+msgstr "Estás seguro que quieres borrar este proyecto."
+
+msgid "Buy order"
+msgstr "Comprar pedido"
+
+msgid "Cancelled"
+msgstr "Cancelado"
+
+msgid "Choose an option"
+msgstr "Elige"
+
+msgid "Congratulations, you just completed the installation!"
+msgstr "Felicidades, has completado con éxito la instalación"
+
+msgid "Create now"
+msgstr "Crear ahora"
+
+msgid "Create product in Woo"
+msgstr "Crear producto en Woo"
+
+msgid "Created"
+msgstr "Creado"
+
+msgid "Delete in Woo"
+msgstr "Borrado en Woo"
+
+msgid "Delete project"
+msgstr "Borrar tu proyecto"
+
+msgid "Delete your project"
+msgstr "Borrar tu proyecto"
+
+msgid "Dimensions"
+msgstr "Dimensiones"
+
+msgid "Duplicate project"
+msgstr "Duplicar tu proyecto"
+
+msgid "Edit project"
+msgstr "Mis proyectos"
+
+msgid "From"
+msgstr "De"
+
+msgid "Imaxel"
+msgstr "Imaxel"
+
+msgid "Import now"
+msgstr "Importar ahora"
+
+msgid "In <span style=\"color: orange;\">pW2P</span>"
+msgstr "En <span style=\"color: orange;\">pW2P</span>"
+
+msgid "In Woo"
+msgstr "In Woo"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Introduce <strong>“Private key”</strong> supplied by Imaxel"
+msgstr "Introduce tu <strong>“Clave privada”</strong> suministrada por Imaxel"
+
+msgid "Introduce <strong>“Public key”</strong> supplied by Imaxel"
+msgstr "Introduce tu <strong>“Clave pública”</strong> suministrada por Imaxel"
+
+msgid "Last connection to imaxel pW2P platform on:"
+msgstr "Última conexión a la plataforma imaxel pW2P fue:"
+
+msgid "Last products import:"
+msgstr "Última importación de productos:"
+
+msgid "My projects"
+msgstr "Mis proyectos"
+
+msgid "Order"
+msgstr "Pedido"
+
+msgid "Price"
+msgstr "Precio"
+
+msgid "Produce ORDER"
+msgstr "Producir pedido"
+
+msgid "Produced"
+msgstr "Producido"
+
+msgid "Product"
+msgstr "Producto"
+
+msgid "Product created width ID <strong>"
+msgstr "Producto creado con la ID <strong>"
+
+msgid "Products"
+msgstr "Productos"
+
+msgid "Project"
+msgstr "Proyecto"
+
+msgid "Projects"
+msgstr "Proyectos"
+
+msgid "Ready"
+msgstr "Listo"
+
+msgid "Reprocess will duplicate the production of the ORDER "
+msgstr "Reproducir duplicará la producción del pedido"
+
+msgid "Reproduce ORDER"
+msgstr "Reproducir pedido"
+
+msgid "Save and update"
+msgstr "Guardar y actualizar"
+
+msgid "Settings"
+msgstr "Configuración"
+
+msgid "Sorry, it's seem that you may active first the woocommerce plugin."
+msgstr "Lo siento, parece ser que el plugin de Woocommerce no está activo."
+
+msgid "Status"
+msgstr "Estado"
+
+msgid "System Requirements to enable personalizable products"
+msgstr "Requerimientos del sistema para activar productos personalizados."
+
+msgid "This action will send the ORDER "
+msgstr "Esta acción enviará el pedido "
+
+msgid ""
+"This plugin connects Wordpress to Imaxel pW2P cloud platform to enable the "
+"creation and sales of personalized products such as prints, photobooks, "
+"canvas, collages, gifts, t-shirts, mugs and others directly in woocommerce "
+"and wordpress embedding the imaxel pW2P online editors."
+msgstr ""
+"Este plugin conecta Wordpress a la plataforma en la nube Imaxel pW2P para "
+"habilitar la creación y venta de productos personalizados como impresiones, "
+"álbumes, canvas, collages, regalos, camisetas, tazas entre otros, "
+"directamente en woocommerce y wordpress embebiendo el editor online de "
+"Imaxel pW2P."
+
+msgid "This plugin version is tested up to"
+msgstr "Este plugin ha sido testado en:"
+
+msgid "This plugin version is:"
+msgstr "La versión de este plugin es: "
+
+msgid "This product is currently out of stock and unavailable."
+msgstr "Sin stock, no disponible"
+
+msgid "Unkwon user"
+msgstr "Desconocido"
+
+msgid "Updated"
+msgstr "Actualizado"
+
+msgid "Updated on"
+msgstr "Actualizado en"
+
+msgid ""
+"Use only tested versions to avoid functioning issues.<br/>\n"
+"\t\t\t\t\t\tThis site is currently using versions:"
+msgstr ""
+"Usa sólo versiones testadas para evitar problemas de funcionamiento.<br/>\n"
+"\t\t\t\t\t\tEste sitio actualmente usa las versiones:"
+
+msgid "User name"
+msgstr "Usuario"
+
+msgid "Variants"
+msgstr "Variaciones"
+
+msgid "Weight"
+msgstr "Peso"
+
+msgid "Woo Order"
+msgstr "Pedido Woo"
+
+msgid "Woo Product"
+msgstr "Producto Woo"
+
+msgid "Woo Status"
+msgstr "Estado en Woo"
+
+msgid "Woocommerce plugin version:"
+msgstr "Versión del plugin Woocommerce:"
+
+msgid "Wordpress version:"
+msgstr "Versión de Wordpress:"
+
+msgid "imaxel pW2P (personalization Web-to-Print) plugin for Wordpresss"
+msgstr "Plugin imaxel pW2P (personalization Web-to-Print) para Wordpress"
+
+msgid "imaxel pW2P personalizable products"
+msgstr "Productos personalizables imaxel pW2P "
+
+msgid "imaxel pW2P plugin settings"
+msgstr "Configuraciones del plugin Imaxel"
+
+msgid "pW2P projects"
+msgstr "Proyectos"
+
+msgid "select the actual <strong>“shopping cart”</strong> page used in Woo"
+msgstr "Selecciona la página actual de <strong>“carrito”</strong> usada en Woo"

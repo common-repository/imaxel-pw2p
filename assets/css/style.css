@@ -1,0 +1,39 @@
+.search-box-imaxel {
+	float: left;
+}
+.imaxel_pagination {
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	float: right;
+}
+.imaxel_pagination a.page-numbers {
+	display: inline-block;
+	padding: 5px 10px;
+	margin: 0 2px 0 0;
+	border: 1px solid #eee;
+	background: #b3b3b3;
+	line-height: 1;
+	text-decoration: none;
+	border-radius: 2px;
+	font-weight: 600;
+	color: #ffffff;
+}
+
+.imaxel_pagination span.page-numbers {
+	display: inline-block;
+	padding: 5px 10px;
+	margin: 0 2px 0 0;
+	border: 1px solid #eee;
+	line-height: 1;
+	text-decoration: none;
+	border-radius: 2px;
+	font-weight: 600;
+}
+
+.imaxel_pagination a.page-numbers.current,
+.imaxel_pagination a.page-numbers:hover {
+	background: #f9f9f9;
+	color: #000000;
+}
